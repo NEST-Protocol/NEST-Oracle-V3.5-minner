@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    cache: true
+
+nest:
+  nestPoolContractAddress: "0xCA208DCfbEF22941D176858A640190C2222C8c8F"
+  nestTokenAddress: "0x04abeda201850ac0124161f037efd70c74ddc74c"
+  nestMiningAddress: "0x243f207F9358cf67243aDe4A8fF3C5235aa7b8f6"
+  nestStakingAddress: "0xaA7A74a46EFE0C58FBfDf5c43Da30216a8aa84eC"
+
+  # Test 1 million, mainnet 5 million, NToken issue greater than this value, enable post2
+  nTokenMaxTotalSupply: 5000000000000000000000000
+  # Calculate the quoted fee ratio
+  miningFeeRateInflateFactor: 10000
