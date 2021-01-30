@@ -35,7 +35,7 @@
 #### 启动和关闭
 
 1. 运行报价程序：
-   * 前往[releases](https://github.com/NEST-Protocol/NEST-oracle-V3.5-miner/releases) 下载 NEST-oracle-V3.5-miner.zip 文件。
+   * 前往[releases](https://github.com/NEST-Protocol/NEST-Oracle-V3.5-minner/releases/tag/NEST-Oracle-V3.5-minner) 下载 NEST-oracle-V3.5-miner.zip 文件。
    * 双击报价程序根路径下start.bat，运行报价程序，会弹出窗口，请勿关闭，可在窗口查看报价、解冻资产等日志信息。
 2. 登录：
    * 浏览器输入http://127.0.0.1:8088/main，会进入登录页面，默认用户名nest，密码nestqwe123!。

@@ -38,7 +38,7 @@
 
 #### Start and Close
 1. Run the quotation program:
-   * go to [releases](https://github.com/NEST-Protocol/NEST-oracle-V3.5-miner/releases) to download the lastest release NEST-oracle-V3.5-miner.zip file.
+   * go to [releases](https://github.com/NEST-Protocol/NEST-Oracle-V3.5-minner/releases/tag/NEST-Oracle-V3.5-minner) to download the lastest release NEST-oracle-V3.5-miner.zip file.
    * Double-click start.bat under the route of the quotation program to run the quotation program, and a window will pop up, please do not close it. You can view log information such as quotation and unfreezing assets in the window.
 2. Log in:
    * Input http://127.0.0.1:8088/main in the browser to enter the login page with the default user name nest and password nestqwe123!.
